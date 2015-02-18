@@ -2,4 +2,4 @@
 EE 3370 Project 1
 
 
-This project is made to get the student accostomed to using a version control software.
+This project is made to get the student accustomed to using a version control software.
