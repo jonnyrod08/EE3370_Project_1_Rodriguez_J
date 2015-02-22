@@ -7,7 +7,7 @@ clc      % Clear screen
 clear    % Clear all variables
 A = 3; f= 1000; omega = 2*pi*f; 
 angle = (33*pi)/180; T=1/f;
-t=linspace(-1,1,1000);
+t=linspace(-3,3,1000);
 x_t=3*cos(omega*t+angle);
 subplot(4,1,1)
 plot(t,x_t, 'linewidth',2);grid on
