@@ -1,7 +1,7 @@
 % EE3370 Project 1
-% MATLAB code for function name
+% MATLAB code for Project 1
 % Jonathan Rodriguez
-% 02/22/15
+% 02/23/15
 
 clc      % Clear screen 
 clear    % Clear all variables
